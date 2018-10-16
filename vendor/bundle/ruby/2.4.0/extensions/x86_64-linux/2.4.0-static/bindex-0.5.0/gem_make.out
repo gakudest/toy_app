@@ -1,0 +1,15 @@
+current directory: /home/okdgk/program/okdgk/ruby/railstutorial/environment/toy_app/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+/home/okdgk/.rbenv/versions/2.4.4/bin/ruby -r ./siteconf20181016-23899-h0uu5x.rb extconf.rb
+creating Makefile
+
+current directory: /home/okdgk/program/okdgk/ruby/railstutorial/environment/toy_app/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /home/okdgk/program/okdgk/ruby/railstutorial/environment/toy_app/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.so
+
+current directory: /home/okdgk/program/okdgk/ruby/railstutorial/environment/toy_app/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20181016-23899-re12un/bindex
